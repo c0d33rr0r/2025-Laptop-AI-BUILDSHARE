@@ -15,7 +15,9 @@ MousePAD: https://www.newegg.com/p/173-071R-00006
 
 LaptopCooler: https://www.newegg.com/p/0VE-05HY-001P8
 
-PScreens: https://www.newegg.com/15-6-rehisk-re15-6-rn/p/3D4-0076-00004 x2
+Screens: https://www.newegg.com/msi-mag401qr-40-uwqhd-155-hz-ips-metallic-black-rgb/p/N82E16824475289 x2
+
+ScreenStand: https://www.newegg.com/MSI-MAG-MT201D-Mount-Matte-black/p/N82E16824960027
 
 Android: https://www.newegg.com/samsung-galaxy-note20-ultra-5g-6-9-mystic-black/p/N82E16875169964 x2
 
@@ -49,7 +51,7 @@ Wifi|BlueTooth: https://www.newegg.com/fenvi-wifi6e-ax3000-usb-usb-3-0/p/0XM-00J
 
 6DegreeMouse: https://www.newegg.com/3dconnexion-3dx-700040-spacemouse-pro/p/N82E16826154013
 
-Keyboard Mouse: https://www.newegg.com/p/32N-00P8-00058
+KeyboardnMouse: https://www.newegg.com/p/32N-00P8-00058
 
 GPU: https://www.newegg.com/nvidia-founders-edition-900-1g136-2530-000-geforce-rtx-4090-24gb-graphics-card/p/1FT-0004-00835
 
@@ -73,6 +75,18 @@ DrawingPAD: https://www.newegg.com/p/172-00UY-00023
 
 Printer: https://www.newegg.com/hp-officejet-200-thermal-inkjet/p/N82E16828414884
 
+CelluarHeadSet: https://www.newegg.com/p/0S9-0DF6-002G4 
+
+MicroPhone: https://www.newegg.com/p/0UK-0742-00011
+
+GameController: https://www.newegg.com/p/2J5-000G-000A5
+
+GameControllerCharger: https://www.newegg.com/p/3B3-00BV-00017
+
+Camera: https://www.newegg.com/tropro-wc002/p/1EF-00RK-00002
+
+Speakers: https://www.newegg.com/p/2S7-09NX-008U6
+
 Amazon-MIN
 
 Laptop: https://www.amazon.com/HP-Touchscreen-Display-i7-1255U-SuperSpeed/dp/B0CKTZVB17?crid=30W27ZYCGRK7N&dib=eyJ2IjoiMSJ9.qdbcNEjRyB5kgFHqjlhp5_x2OlomlVPlgpA8p2Nu0xyDDTEz9i6sWqpQu3hrVJr4vbRHrIR1vZbw0yYUAyFruye2ZNBOfH3acxGNDqU9flRIMIOWmiaWp9pEe8BoFITioWXmHLMq1nZEX4SSvHeQ0Ojrdodhc09PAPliThcw3MA6KA2aZr7fMlbGhD-WQ120tBITryiImlCqmwTJvWtK_2xwT2fSfKREKM3ZGCqF2Sc.YT2TDwy7Ju8g_S1Z0j6lkSttBePlZnOGzX4_cytnLis&dib_tag=se&keywords=laptop%2B64gb%2Bram&qid=1751933214&refinements=p_n_feature_four_browse-bin%3A17927742011&rnid=676578011&sprefix=laptop%2B64gb%2Bram%2Caps%2C329&sr=8-4&th=1
@@ -83,7 +97,9 @@ MousePAD: https://www.amazon.com/ITNRSIIET-Premium-Textured-Waterproof-Palm-Text
 
 LaptopCooler: https://www.amazon.com/Kootek-Laptop-Cooling-Cooler-Adjustable/dp/B01469DJLM?crid=2AWYHDG1SJUPY&dib=eyJ2IjoiMSJ9.5bw34OKlgvnlG8TXccxpkQADonvAKj5xWatMd4FWft_-ypVdLs9NQFRlUMeUf4ttilfEPULsIz_bZmXocbguDoXL_T5WuXnCZ2VRmNOhe7H5kjbSCdtgpMr_cyrm-pMLUxvTUOBUGfneRNhZGLocxZ7A2Mcn-I1HKIJSYd0nVOzR7f9uRmvJ6oOT2LJWzKsqz-62mkUeLn0TOS6C62Cb309uCqMDUut9xJCetz-O8w0.nil2G8eLEd4ooNDiXYPAfPMmCh9gQRa-ROx8D_fA_1M&dib_tag=se&keywords=laptop%2Bcooler&qid=1751935517&sprefix=laptop%2Bcool%2Caps%2C512&sr=8-4&th=1
 
-PScreens: https://www.amazon.com/MNN-Portable-15-6inch-Ultra-Slim-Speakers/dp/B0B9NNWXVP?crid=3SG8A0QKVQ241&dib=eyJ2IjoiMSJ9.JFwG8BAM9jkKSm3OAh4xtLOx3DWw22e9BlqujZ5YGPDP7Sp0hau_4TN4pZYpzYBImoW9muUtaJo2GbhtSmXRjYKlw_DTjg3VR1ZuGcw-FvBYbmjpmPtliD9L8MGLVno3oWl4XijrYnc839EMoI0Ye5rmEs936pc1fS0x5Em4A03hV-UujN0s3tDTnVhrSy_trtYtJmBjxTqXf_gZZPJFIQUZT7NoNdVK2EZf2HhkBys.aPHrI3NHLXi3tiaa8bX2Y5H_yPSiKPKjwgZDvcYyDpM&dib_tag=se&keywords=portable%2Bscreens&qid=1751935098&sprefix=portable%2Bscree%2Caps%2C457&sr=8-3&th=1 x2
+Screens: https://www.amazon.com/INNOCN-Ultrawide-Monitor-FreeSync-Premium/dp/B09N3G9T16?crid=1C6G7INSWUFP9&dib=eyJ2IjoiMSJ9.fQD91MmqrhDRxIcNUgiFBDkZLUZ7yppL1Jnno_JQ7PD6mvaxBzz2gjyeBg9dK4x1YNiQMouwo8N02yT2tKJlAev7XH_3QHVRDKLp4W6uegf7WUtaGVZBoD6iBffgdqMoGTIob90yhZr1VQYMTXGGphcNX5vPcUVsJv8fWH1khu8LxtmqaRoCvmCF_RYdam8YtVZWPSBJGl58qTSsYs2MtyzUL5kwTqLMnoc_lShz5Ys.18lRivtcoeLNl6iE0SM5-6wyzIENyNjXO_GgjSbHmug&dib_tag=se&keywords=computer%2Bmonitor%2B40inch&qid=1751949678&sprefix=computer%2Bmonitor%2B40inch%2Caps%2C833&sr=8-3&th=1 x2
+
+ScreenStand: https://www.amazon.com/Dual-Monitor-Mount-Stand-Adjustable/dp/B07X262MRK?crid=30X9HQVP1X3HD&dib=eyJ2IjoiMSJ9.Q6kxCc1dBREiOIMtIXMHOGaLgjo6BwTqEFRRj24NiJCJXpuHmRU8f4IqK6zr_73_otKDQia4ZGkTMlvorPa8U1Zl9C_xLlKYH2jhSO74M3umh8t-I3hY27FtMXouSpPng76jW2EdmyMj_MV79r_T-mWohPlPipvUFvOIXAyoVRCo8KIoggXfaI3xWyDYW4ZTgrkV4Y48sreuvAn0CbgvGU5T6y3XmmunBV92FxGWkR0.W4J7FX8H5Zk3DGcvpdl0eLI963Cmn5_8Ih36GsAucBs&dib_tag=se&keywords=computer+monitor+stand&qid=1751949631&sprefix=computer+monitor+stan%2Caps%2C317&sr=8-21
 
 Android: https://www.amazon.com/REDMAGIC-Smartphone-Display-Dual-Sim-Unlocked/dp/B0F4366M93?crid=NK4JS2BGNKYC&dib=eyJ2IjoiMSJ9.QcClG3kaxWvmEOLiQAKncI9rzpZ5m2XjVUZIpUDuhACTg3uNS0diuNfnWZeYKt5LalDIngoi2is1chhAQ3MO-I6M5Y6kb-pj_-x73F3NoKKr2IorwCpJiWbbJ-h-nYWvjuAEoasof7MFpPEyqFKw9JaMJ0KBmY3nXF-R7MYrJN8bMo1yylSfjz42QFvEOGmlytEkW8lP5vcHVnSTiJXUYN4Gg25lozqKyM85AUAeYEU.yHwjdSCn_Kf8s1IhaC1ZR3jA9uKqDhI-ruO9pBY3rD4&dib_tag=se&keywords=redmagic&qid=1751935156&sprefix=redmagic%2Caps%2C449&sr=8-5&th=1 x2
 
@@ -142,6 +158,18 @@ DrawingPAD: https://www.amazon.com/Graphics-UGEE-Drawing-Graphic-Creation/dp/B06
 3DPrinter: https://www.amazon.com/FLASHFORGE-AD5M-High-Speed-Quick-Swap-220%C3%97220%C3%97220mm/dp/B0F37SX4DB?crid=HZ8T48FHOROM&dib=eyJ2IjoiMSJ9.StELcCyvVHpC977sEsojqtjpKLwC9bNcCYfp2_YKUW5N1xWTlWh1Hh_tvok6QI2nYcl9EEqY3qi0NhGbhhD-pqddLULgw8zTFU8T1lbdDg-QbLOt_y0GQk44G6ofMIND_5svImvb1pobA3tNyhdTokr9ToySJ6z36hfTUojAHdJOgX_MV5QxwaofxnZxH8nEMjzaZilCq56vIwY6W_KsY8BFBSTHP5yPBAOmDrFtdi0.zWRfT2RIFC5X6XZIMjAgEos69_4RRnwkfIbyseLvfm8&dib_tag=se&keywords=3d%2Bprinter&qid=1751936859&sprefix=3d%2Bprinter%2Caps%2C352&sr=8-3&th=1
 
 Printer: https://www.amazon.com/HP-DeskJet-Wireless-included-588S5A/dp/B0CT2R7199?crid=2X6Q6I881ZD0T&dib=eyJ2IjoiMSJ9.RY9jnmb7i2jYLyRTTj5mrukda2HrVVIl3doL4NOeJJ-f2Hr73o8OMoPr4yLrHWWYn1B0NP-LiIa6Yyzai6xm2Gz3Fv8-T5Runnza2bgkvbmJGVa6Lsy41rl0ZbJed-vAwmiyM23RJzn5OiS2oKnqsVRDJW1KjjTAYkEk17uezmT2ke2hRkEbfXMoPzsPaYo7C_MJ0g6iu-TVIRYPYEzqFLUTa-obsBcPPwQjjCbWdZQ.B3_pOjr3rDgwA7-BsA1dBrIQsDsf9QZeevO2kMkndms&dib_tag=se&keywords=printer&qid=1751936880&sprefix=printer%2Caps%2C255&sr=8-3
+
+CelluarHeadSet: https://www.amazon.com/Hsility-Bluetooth-Headset-Charging-Rotatable/dp/B09G6RSVYD?crid=3KEZF93O09ZCA&dib=eyJ2IjoiMSJ9.XepauJU0_rYsZe2pwcIQ_gOLp89mpr0ZnF0bfZXHVrsWIIkQUcOET78mLrO_S4FkI1BB2t7N6SKrFLUrgxolNm8JFXtc7AwUS5wlzLqNZojZ0DsDk6usbUEv80q_r5QEXunrFnhrPSkEfQ-_TLLaWA38Ft05wQG7iBcGq_UPuq9b6yDhJ_bFseIgQJYtcbVa45zRKRyuvdCm9Jy_fiON1K780H5z9ACk-kKt12dwns4.m9xA39Q_mR_HZia3j-CUumZqZqepH0Uepmpc0Kncfzs&dib_tag=se&keywords=cellular+headset&qid=1751948033&sprefix=celluar+headse%2Caps%2C213&sr=8-4 
+
+MicroPhone: https://www.amazon.com/FIFINE-Microphone-Podcasting-Voice-Over-AmpliGame-AM8T/dp/B0C74GYW3J?dib=eyJ2IjoiMSJ9.QpVLfCIoLjSkuGadA-B685Z7Om3nUSZba8Y4JlRuh9ABO7qhw1kuLS0qH_i94ShmLzDSQb_3FrWg0VeZ-onBJg_T9U9b72TOnf2TpVJDajfpTW8aPLYqywi1YhJgVQvkbMj6Yb5DaSz3-LFasXrkMjTEjs0TiFYjA97Ayd1gs2D9SH-j8I0PetbmzirzwKVFC6MotdkE7EEOaXyoV-vQD94xQRtqroqk3R_hqgcO1-saL2ojRPxwbPem6eVri-gXarSO1uW8GcalUk_AGXrRIcfEw29vdGMZwHMP8jWpfcU.NE6a-KJpdqUM5xG30alDFMJ_teUbR21cWZIjWZn4f3Q&dib_tag=se&keywords=microphone&qid=1751948160&sr=8-31&th=1
+
+GameController: https://www.amazon.com/DualShock-Wireless-Controller-PlayStation-Black-4/dp/B01LWVX2RG?crid=34DKJ798RQYV&dib=eyJ2IjoiMSJ9.mHQUtBWr0GQpXHREK6nnQE2ZgPuEasqY5ooaNQapckYVF8vbE6_7NPb0yqeiQ04-7xUQpmV4GLPZ-Mab9zsIHqLIQoDJfkkou8_WpJfOn8Adcp-ZK1VWtAb71r6-jk9u9Fzxg_HxmJb76A1Slf-ctr1FxGFIM11u42r4QEDQJxFyQ3_DJWAd8MqLor825oJie__EhiO0VGjhB4D_sm7HzS3g1PkR4uawB8T0CJeOt_M.YCc-lwAjEaPxrz1kIC7XmqTUOGJQj3WYAfFyTf4B5V4&dib_tag=se&keywords=ps4+controller&qid=1751948206&sprefix=ps4+control%2Caps%2C341&sr=8-3
+
+GameControllerCharger: https://www.amazon.com/Controller-OIVO-Playstation-1-8-Hours-Replacement/dp/B075YBBQMM?crid=2C664RI1NEAQ6&dib=eyJ2IjoiMSJ9.uJfx_28i6_t-b6WNuLs1FkqF-A-Uc2W2vZBI1W4kwGD-A3hY91ti8h8eU4d98lyM39-085aHHigaagAsuN2E3JT3JQAtRvoVDYIkBdwDmrwpKSZdYDdrfu3YmpzSQ7MmUIlYGulG4hi-FIs1xeamu69KkcpfDMVXj-1FDRF1O2d_AhM1uQu0dZ_NpOg1uHkClU2EP3ReOD513OxgQ2Ca_ajq1sbvIr_7wrz9j3jYFAY.ceGyK9QzT54lcQgXhFpCn6zl2GfTR-QU0zP9MqpDt1A&dib_tag=se&keywords=ps4%2Bcontroller%2Bcharger&qid=1751948226&sprefix=ps4%2Bcontroller%2Bcharge%2Caps%2C587&sr=8-4&th=1
+
+Camera: https://www.amazon.com/Microphone-NexiGo-Computer-110-degree-Conferencing/dp/B088TSR6YJ?crid=TVWSHB8OWT9R&dib=eyJ2IjoiMSJ9.BpyZwqg1ktu18T2wSXERAQnZP0-rYFc1FIgBNXd2Xuh7Y6UH98AE7LFbHi2LBj9hMtgMspcURxuH2xjlrqBkasr1wLtHMtV5EZbISUW1pwxwCkBi0gcPQuGjGqXvWD_Djb9BS0rK1d-E5yoe2-1orhtuvYLKX0ZRvSo8Od7kDgHztrI23-lI5gEEcOc29CZ7hto2zSRc-_a3m59aXmWkTSlpNKAImUMScbhONKsGgTQ.oJf0ZWgRu7n5_Cy1Js8IDPp612lDFglQHmn4Er9D0BA&dib_tag=se&keywords=webcam&qid=1751948290&sprefix=webca%2Caps%2C359&sr=8-4
+
+Speakers: https://www.amazon.com/SENZER-CS20-Bluetooth-Computer-Speakers/dp/B0F2FQ35ZG?crid=FW4IVC19C67O&dib=eyJ2IjoiMSJ9.I_b0CttNsKlFBncWSm29NFZNLqsHZ5YUuBuBsODPJF8RLEzCovxTvQ96lKtOKnNxI8TSl2y6ISSGSHSkK-ODZv_Kl0JLieWmabR21emJLWCJJKs1Kzi2LmHJDsKesnPkSpE-jzUNiMiiRSOBsCdGLl5mBtw3Z6kZATMY8CGE6i-nyW956YuJM_3LbcOCASIPkZOvxSQEQUQD1koux5I95tvBvs9ihp-aNZWlm4wA6kQ.1CtVqBSeJzZkvLeeKJECqzLgi_7nBlORq1IPDe9xQFA&dib_tag=se&keywords=computer%2Bspeakers&qid=1751948534&sprefix=computer%2Bspeaker%2Caps%2C764&sr=8-5&th=1
 
 Meant for SuperComputing Results
 
