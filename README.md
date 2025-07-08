@@ -19,6 +19,8 @@ Screens: https://www.newegg.com/msi-mag401qr-40-uwqhd-155-hz-ips-metallic-black-
 
 ScreenStand: https://www.newegg.com/MSI-MAG-MT201D-Mount-Matte-black/p/N82E16824960027
 
+PScreens: https://www.newegg.com/15-6-uperfect-m156t03-w/p/2NY-008V-00011 x2
+
 Android: https://www.newegg.com/samsung-galaxy-note20-ultra-5g-6-9-mystic-black/p/N82E16875169964 x2
 
 AndroidCases: https://www.newegg.com/p/0S9-0D4N-000Y4 x2
@@ -33,7 +35,23 @@ PIPico: https://www.newegg.com/p/1HD-005N-000T6
 
 LORA: https://www.newegg.com/p/3C6-00U7-00G53
 
+GoogleCorals: https://www.newegg.com/p/3C6-015Z-009V4 x3
+
+USBHUB: https://www.newegg.com/startech-hb30a3a1csfs-usb/p/N82E16817707428
+
+DIYUSBSecurityCams: https://www.newegg.com/p/3C6-00V6-009J8 x2
+
+Type-C OTGCable: https://www.newegg.com/p/2B3-00DR-00GM0
+
+KeyBoard: https://www.newegg.com/p/N82E16823167034
+
+HDMICables: https://www.newegg.com/ixever-10-ft-hdmi-cables-black/p/1DG-01E6-00007 x2
+
+USB-Type-CCables: https://www.newegg.com/p/181-013S-00090#IsFeedbackTab x10
+
 Type-CCables: https://www.newegg.com/p/0S8-03MD-00009
+
+Type-cSpiltter: https://www.newegg.com/p/181-08GT-000K8
 
 Type-C-USB: https://www.newegg.com/p/36F-015Z-00011 x3
 
@@ -101,6 +119,8 @@ Screens: https://www.amazon.com/INNOCN-Ultrawide-Monitor-FreeSync-Premium/dp/B09
 
 ScreenStand: https://www.amazon.com/Dual-Monitor-Mount-Stand-Adjustable/dp/B07X262MRK?crid=30X9HQVP1X3HD&dib=eyJ2IjoiMSJ9.Q6kxCc1dBREiOIMtIXMHOGaLgjo6BwTqEFRRj24NiJCJXpuHmRU8f4IqK6zr_73_otKDQia4ZGkTMlvorPa8U1Zl9C_xLlKYH2jhSO74M3umh8t-I3hY27FtMXouSpPng76jW2EdmyMj_MV79r_T-mWohPlPipvUFvOIXAyoVRCo8KIoggXfaI3xWyDYW4ZTgrkV4Y48sreuvAn0CbgvGU5T6y3XmmunBV92FxGWkR0.W4J7FX8H5Zk3DGcvpdl0eLI963Cmn5_8Ih36GsAucBs&dib_tag=se&keywords=computer+monitor+stand&qid=1751949631&sprefix=computer+monitor+stan%2Caps%2C317&sr=8-21
 
+PScreens: https://www.amazon.com/MNN-Portable-15-6inch-Ultra-Slim-Speakers/dp/B0B9NNWXVP?crid=33KDZGGHI8W5U&dib=eyJ2IjoiMSJ9.JFwG8BAM9jkKSm3OAh4xtLOx3DWw22e9BlqujZ5YGPCMzYAzunkFaMf9v5HvA_6vttWOVs3VMEMA25ndXHf2u229R7aYY0ffWauqlz5rDPbhaH9UKiPEIioRuGGZQpxsPh2FyCbygJxlqOnhVpYefl0YlK8uGvrWxLcmpx6uaxU-vOOG6NpkIFr9uxbEgWtLEksMjAsZ1SjQHgTlpsPpFroa2wQynN7gJneO1kHcffw.COIJvGnN1AfPsGwn0K3gfkFTgInf6HZLcku6Icu6HI0&dib_tag=se&keywords=portable+screens&qid=1751952596&sprefix=portable+screens%2Caps%2C365&sr=8-3 x2
+
 Android: https://www.amazon.com/REDMAGIC-Smartphone-Display-Dual-Sim-Unlocked/dp/B0F4366M93?crid=NK4JS2BGNKYC&dib=eyJ2IjoiMSJ9.QcClG3kaxWvmEOLiQAKncI9rzpZ5m2XjVUZIpUDuhACTg3uNS0diuNfnWZeYKt5LalDIngoi2is1chhAQ3MO-I6M5Y6kb-pj_-x73F3NoKKr2IorwCpJiWbbJ-h-nYWvjuAEoasof7MFpPEyqFKw9JaMJ0KBmY3nXF-R7MYrJN8bMo1yylSfjz42QFvEOGmlytEkW8lP5vcHVnSTiJXUYN4Gg25lozqKyM85AUAeYEU.yHwjdSCn_Kf8s1IhaC1ZR3jA9uKqDhI-ruO9pBY3rD4&dib_tag=se&keywords=redmagic&qid=1751935156&sprefix=redmagic%2Caps%2C449&sr=8-5&th=1 x2
 
 AndroidCases: https://www.amazon.com/Foluu-RedMagic-Yellowing-Protection-Shockproof/dp/B0F62W23GV?crid=21UKBWGHK55DZ&dib=eyJ2IjoiMSJ9.NEPVfywx1q_djvLU48Vq3QiEVrWQUVLbtxdTY5zls1maYfVrPlFPOl4JoQrNS_6yF7MjVa7UIZerhpHqCNF67uSPt77WSTvj6NaWNRMzxFhFbXJyAA9P9ten9Fe2mlGKMs9qb-F3xytWj2dnh89JRZWD332ZBzMeTDgI_Dbz7h2kS6Z8OX80cKeCeKlzgXwPuMizIWQaW0BJ5D5EPoI4n8TTjkc0kRlqfsixquKlaJI.e7Z-DT3vZR_lmV0v-UC_nkZePaBmJEdBoPRrw77bMIU&dib_tag=se&keywords=redmagic+10+air+case&qid=1751935407&sprefix=redmagic+10+air+cas%2Caps%2C275&sr=8-3 x2
@@ -114,6 +134,22 @@ BreakOUTKit: https://www.amazon.com/Adafruit-Industries-T-Cobbler-Breakout-Raspb
 PIPico: https://www.amazon.com/Raspberry-Pre-Soldered-Microcontroller-Development-Dual-Core/dp/B08X7HN2VG?crid=2ID9HA9FBRB5N&dib=eyJ2IjoiMSJ9.abnruKmzOLn2duzzRsyvaHEecXRwMV6ZpUivjs_0ivD2YOupPtCRgk5ENS7j29eLlTuuuMKjvtO1JwT1f8cZoDNUf5Epem9qSdIc4ZF7MncDWhivEj7lgI_In6ao8bU5Z71vKsqcZ3Lhab6PAyfWUTmNDxn6AFiJ0VYWlc3L95gDuQSdQ2iLAdobXaInMhxKEyZtSV9E_JE0frV5EKF9AkHolhNJuGWN1vIEvU4IMeI.330gCf0M6M0defFF07GnjKO1P8vAd1HAzemXvyI3NR0&dib_tag=se&keywords=raspberry+pi+pico+presoldered&qid=1751935002&sprefix=raspberry+pi+presol%2Caps%2C293&sr=8-1
 
 LORA: https://www.amazon.com/Raspberry-Frequency-410-525MHz-XYGStudy-Pico-LoRa-SX1262-433M/dp/B0B41GL2RP?crid=1B2FSBWE0NJZO&dib=eyJ2IjoiMSJ9.ncfauPA9M3gf2WFi86VwZGTiKxdaXJ3T23DY8QIApYeVShQrcczcyKx0e0B81A5dYUDP0fNHo87YfK-QKviZpUUftoO94QS-X5_n2eVFF6yVF27oCatLuDtkmDoAJchTmw3NwnSq-3pC-o-jpXUFsilPq-U-dzk78GIHyMcB0ZcMHK3u38Zga9TgO-dBVVVOd4GsTVO519ZTUEIZ4QDwEIVomxe2MvTT1uSuax8PzXo.MfHfoLCqnHeuIm0TA78QZvuBYMAQ8qIkF5Pgx8dXvjQ&dib_tag=se&keywords=raspberry+pico+and+lora+kit&qid=1751934552&sprefix=raspberry+pico+and+lora+k%2Caps%2C698&sr=8-19
+
+GoogleCorals: https://www.amazon.com/Accelerator-coprocessor-Raspberry-Embedded-Computers/dp/B0CDGT75SH?crid=2PF8WR5WZL8ET&dib=eyJ2IjoiMSJ9.EJZR7B9doXUF5kju-bgSITMosomCiTlyJIAsruGjJMzMWx3VlKeDF2aU99o1-kv3drXA1LNrpzpVd1EdpiPiyXQPIKiDl58QFkBUOxYSlfaTDZszqVmeoFd_g3L-CyNZhnJoL2jUwE3mo2eUmxDhrX0BtoI3D8Xmfldln1rjSeL8Dwd4Ej57d5ggOLAm6UeXNSCO1kbBmfjaYpodbuR6_P4J-qAa_Fe2AOHqSFbWa5M.UjWtrcnMWtBojEcxFy7WOi-agUaL0DKkPp6uslRoW94&dib_tag=se&keywords=google+coral+tpu&qid=1751951446&sprefix=google+coral%2Caps%2C1058&sr=8-1 x3
+
+USBHUB: https://www.amazon.com/Anker-Transfer-Ultra-Slim-Charging-Supported/dp/B07L32B9C2?crid=1OWDD6ELPZ53Q&dib=eyJ2IjoiMSJ9.7BKxDSNGnIbhN_f3mLjH8YHaL-rKW9hAXl36IYU0hrrFEE5LNqKifWhlcIbzFfEUSdIMdEbA0OnlfdpQOT0z0doHonGneiyp-TQ6qSVjIbYNf1EL598YJAj-HxGJZC115A5XS5NkWE6CmEW3FSHXXPA4OPSUIyozAwECjKcqq9B9YoEkNdg-xsM6rJCDfAhlw5pqikRnUcH4W4yBFtQH9rEcUndMUj2OoDXY_ga8x8M.rS-7-KBGRbk9XpyFdAS9NIsu05nBMyRf9j8yC4bu8pE&dib_tag=se&keywords=usb%2Bhub&qid=1751951943&sprefix=uisb%2Bhub%2Caps%2C608&sr=8-3&th=1
+
+DIYUSBSecurityCams: https://www.amazon.com/Deal4GO-Internal-Replacement-Latitude-Precision/dp/B0DS3VRTK7?crid=17BRXB3NS783F&dib=eyJ2IjoiMSJ9.cwnrDG1GvgJhOMvEpPpMYj9uXx-bRUZEdhOWppnivMQaEwTlHdAKOcL6Zo2AG_7gg9sfliBSqL3FlC1zci-oAQTQJpv2U5vuSriwZt21hj51hso2aFs6eXdw0bRiP3aIfzbDxbmikXPgVZojqRbzGe0xG_pYe4hiu8qAbglwuUnkQ9B2WPPMD_mbyM6xow9g.CNi2KqPshTkmNa_Ss83aJj8JWULqY9P7SKNvHu4G3kk&dib_tag=se&keywords=laptop+camera+replacement&qid=1751951999&sprefix=laptop+camera+replacement%2Caps%2C251&sr=8-30&xpid=fngM6-w7HzwZf
+
+Type-C OTGCable: https://www.amazon.com/Multiport-Adapter-Charging-Converter-Chromebook/dp/B0BVHSNF3G?crid=2AIZNALRR52M5&dib=eyJ2IjoiMSJ9.BuOSBY5aVWWnfjeGIhk9uP0rTSYKKtInmD3Y-_qaDKq099rG7AgY5mxPgH-JCw8AC8NxvEp3jpXGiQRurSjSpUf_eNE6cG8wUFAyaYHoioy4bDQ30WZWCkqyxMsZ-spIY9-Oy7z68_Y_vS-vt-guZEEQatq2uiHxPNAj94vPQpUam5qVsnUgBmgmp8vD4B_mNp-Pw303wrkU0d4o7niS2oDoeiqWqj2UaB7C0xGAfFY.pqzAdFDuBRW8bBnmi8Nb4SrwjNZbI4S5RjPfK2kV3vk&dib_tag=se&keywords=type-c%2Botg%2Bcable%2Bhdmi&qid=1751951840&sprefix=type-c%2Botg%2Bcable%2Bhdmi%2Caps%2C250&sr=8-1&th=1
+
+KeyBoard: https://www.amazon.com/SABLUTE-Keyboard-Computer-Oversize-Compatible/dp/B0BRMCPPZ5?crid=3IUXH4H2R36Y2&dib=eyJ2IjoiMSJ9.cSL3CzviRezOpZtZcG9cH8CvUIzeKp8j8cgb3g0pc0nLMPMWMz6rmbo_hlhHr76uuApoJHus7Nz_OPfFJyOPyb7zXUMCoVUEqDvGDBJVWl6gQ0k_LNGqdJqVUnLjA1nKf9Cdjt4UfUhaw90T-dMIRrhOpD0NoInHvPkSDFA0O4O8gCDJoyiHX_sninz5FpbsYI1VVSd-BTuKo3f32NROg8TDdPEBN7JcJlS8i3EFrYw.8l9KNrD-lQ3BHIJLZPOpL3M44NHlZFH85Do3XCq0_wY&dib_tag=se&keywords=backlit+keyboard&qid=1751952131&sprefix=blacklit+keyboar%2Caps%2C273&sr=8-3
+
+HDMICables: https://www.amazon.com/PowerBear-Cable-Braided-Nylon-Connectors/dp/B07X37CG9V?crid=2RAFVCYNQWP05&dib=eyJ2IjoiMSJ9.usPJ2MdWQw8vhPfO8dUGjyrza8YbI-8MpC0Ui06sFXQb9MK_btTqHkXnWoJttA7QtZZ2GwDzjB23FgDyhW04nG_uKD8oiFWgaqFpJfAuGhS1oaK6-9JqFuart55iFdrYdejnBcqHBMdSe99OzHe5J8B5uaJsE7M4jLHlfCbAMU-ujK101onnBmAetSKVJRBBopLF6tqrFE4ZGmb5bc7X3HSnszLWXpecttiKcBoUcDk.I7deFR1Q7dNE7bI3R_X7GNp5ufuvP__0LX_Hx_jK8D8&dib_tag=se&keywords=hdmi+cable+10%2B+ft&qid=1751952291&sprefix=hdmi+cable%2Caps%2C631&sr=8-3 x4
+
+USB-Type-CCables: https://www.amazon.com/Charger-Braided-Charging-Compatible-Samsung/dp/B0794M53HQ?crid=1JT7YC0CWEX1E&dib=eyJ2IjoiMSJ9.rXHAkxsTCwkjYFb9rnaswhrZ0Q1KJJZ6Sw2NsaLbJOu99g1qVWX-cUE332t8u1Gj3SghPBCmYFj2XOUKNP1akPU52Wy7E_6SpSGYlLI6vSSM-TWV-2Jam4p4Hjp2JC1ArekhjdXdYcjVrKg1Bxvh_Kw9Ykcej5LVEjL6CYxXfaz6mTpZpYaNSapVIV6o6xVDkZGjPDwmvq5_ykw9ozUxeK3xRp89YNYMN2Fm_NfqmJs.bJJ6YTVpR7aGWne0UX2Bu1qE9nMallfyeg3uTDOqLJ4&dib_tag=se&keywords=usb%2Btype%2Bc%2Bcable%2Bfast%2Bcharging&qid=1751952448&sprefix=usb%2Bto%2Btype-c%2Caps%2C386&sr=8-4&th=1 x10
+
+Type-cSplitter: https://www.amazon.com/Jadebones-Splitter-Headphone-Charger-Charging/dp/B0DRS5HT1P?crid=2CEIFRCS7APBT&dib=eyJ2IjoiMSJ9.uiGHZ_pC6PAvVnJrNtWWTXiRn_wqUsrpUvt2CMvo7DvrZiHq2w2vQ_tql-dVS3nEqYIuNKpVE-R7i5EIMLC3R_mCyUJpiUjIzcfu9p60T-iZ_b2c_umEw3SUCMRdxjdFo1zJFnnzaxu49SQTMtSJhNFihf_KN6wID8AuxOmpWz97LKV3FeHcaYQC2ttb0RDnuNdilLTIjBXlB2LMbnFYkFx8EEAi38xk05jFEFf0zM0.sHbdbb5XOixFt4XAu8sXW0bgnZ6vnYBwasZdkGe8rXg&dib_tag=se&keywords=type-c%2Bsplitter&qid=1751953649&sprefix=type-c%2Bsplitter%2Caps%2C441&sr=8-3&th=1
 
 Type-CCables: https://www.amazon.com/KYEHD-Cable%EF%BC%8C3-Charging-Durable-More-Grey/dp/B0F6TM5LJR?crid=1KILQB0PGB3XI&dib=eyJ2IjoiMSJ9.9qrd-P4DH5hCEdQcdY9NNnEEYJ_sXtJSnsLsEiVZuFRxTuodOBrvIKJDEzA86eZ4P7jMIV4kT3mvdaijIzQchIb6oQL9IT0ireBnCnpxgU2HXgUrEpRpOctKtPLxOYBPu8QZSckTZYgUYdadfbcDN-lNO8qTK0mkb1M8dgZdZksBOVBj-cM6E9ZrVnQ3s7tLbeA9jIVW0UoR3Wt9XLczdnrMDXh6QCejTlhW6LJQATM.6DxlxSJ2VRXSQ58kXn5x8dIS_nDDONyNv2S-JjGwoiw&dib_tag=se&keywords=type-c+cables&qid=1751935718&sprefix=mouse%2Caps%2C2673&sr=8-3 x2
 
